@@ -1,3 +1,8 @@
 img {
     border:0; 
 }
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  
